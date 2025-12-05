@@ -88,7 +88,8 @@ count_upload <- maxn %>%
 
 length_upload <- length %>% # This includes only EM data, not generic length
   left_join(codes) %>%
-  dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number)
+  dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number) %>%
+  dplyr::select(-period)
 
 # Check missing caab codes (okay if from sp, sp1 etc.)
 n_no_caab_count <- length(count_upload$species[which(is.na(count_upload$caab_code))])

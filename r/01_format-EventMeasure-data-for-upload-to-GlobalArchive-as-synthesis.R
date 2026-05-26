@@ -84,18 +84,29 @@ codes <- australia_life_history %>%
 
 count_upload <- maxn %>%
   dplyr::rename(count = maxn) %>%
+  # mutate(species = if_else(species %in% "scaber", "scabra", species)) %>% #turn this on if you need it 
   left_join(codes)
+filter(!is.na(caab_code))
 
 length_upload <- length %>% # This includes only EM data, not generic length
+  # mutate(species = if_else(species %in% "scaber", "scabra", species)) %>% # turn this on if you need it 
   left_join(codes) %>%
   dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number) %>%
-  dplyr::select(-period)
+  dplyr::select(-period) %>%
+filter(!is.na(caab_code)) %>%
+  select(campaignid, opcode, sample, caab_code, count, family, genus, species, length_mm, precision_mm, range_mm, rms_mm, stage)
+
+names(length_upload) %>% sort()
 
 # Check missing caab codes (okay if from sp, sp1 etc.)
 n_no_caab_count <- length(count_upload$species[which(is.na(count_upload$caab_code))])
 sp_no_caab_count <- unique(count_upload$species[which(is.na(count_upload$caab_code))])
 n_no_caab_length <- length(length_upload$species[which(is.na(length_upload$caab_code))])
 sp_no_caab_length <- unique(length_upload$species[which(is.na(length_upload$caab_code))])
+
+species_2_update <- count_upload %>%
+  filter(is.na(caab_code)) %>%
+  distinct(campaignid, opcode, family, genus, species)
 
 # Save GA upload data ----
 write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))

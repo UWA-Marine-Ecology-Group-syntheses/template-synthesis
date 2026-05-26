@@ -85,15 +85,15 @@ codes <- australia_life_history %>%
 count_upload <- maxn %>%
   dplyr::rename(count = maxn) %>%
   # mutate(species = if_else(species %in% "scaber", "scabra", species)) %>% #turn this on if you need it 
-  left_join(codes)
-filter(!is.na(caab_code))
+  left_join(codes) %>%
+  # filter(!is.na(caab_code))
 
 length_upload <- length %>% # This includes only EM data, not generic length
   # mutate(species = if_else(species %in% "scaber", "scabra", species)) %>% # turn this on if you need it 
   left_join(codes) %>%
   dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number) %>%
   dplyr::select(-period) %>%
-filter(!is.na(caab_code)) %>%
+  # filter(!is.na(caab_code)) %>%
   select(campaignid, opcode, sample, caab_code, count, family, genus, species, length_mm, precision_mm, range_mm, rms_mm, stage)
 
 names(length_upload) %>% sort()

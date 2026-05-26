@@ -29,8 +29,8 @@ metadata <- read_metadata(here::here("data/raw/"), method = "BRUVs") %>% # Chang
                 depth_m, 
                 successful_count, 
                 successful_length, 
-                successful_habitat_forwards, 
-                successful_habitat_backwards) %>%
+                successful_habitat_forward, 
+                successful_habitat_backward) %>%
   # rename(opcode = opcode) %>% # use this line if you need to rename opcode to opcode
   glimpse()
 

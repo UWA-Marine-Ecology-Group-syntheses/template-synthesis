@@ -1,0 +1,765 @@
+Dot Point Measurements
+
+Generated: Monday 26 May 2025 14:23:34
+
+Filename	Frame	Time (mins)	Image row	Image col											campaignid	relief_annotated	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers			Radius %
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													100.0
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													89.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													64.2
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													46.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													46.5
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													15.5
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1													64.2
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	Wall	4					46.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	Wall	4					46.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	Wall	4					100.0
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	Wall	4					89.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	Wall	4					89.9
+SAL-BV-001_1_01_Left_MAH01334.MP4_0075203.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-001	1					Relief	High	Wall	4					100.0
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													100.0
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													89.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													64.2
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													46.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	High	Wall	4					46.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													46.5
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													15.5
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Flat		0					46.5
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													64.2
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													46.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Flat		0					64.2
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													100.0
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1													89.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-013_1_01_Left_MAH00333.MP4_0006708.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-013	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													100.0
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													89.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													64.2
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													46.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													46.5
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													15.5
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													64.2
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													46.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													100.0
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1													89.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-022_1_01_Left_MAH00283.MP4_0039542.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-022	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													100.0
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													89.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													64.2
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													46.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													46.5
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													15.5
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Moderate (1-3m)	2					46.5
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													64.2
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													46.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													100.0
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1													89.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-026_1_01_Left_MAH00359.MP4_0031147.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-026	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													100.0
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													89.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													89.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													64.2
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													46.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													46.5
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													15.5
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													64.2
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													46.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													100.0
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1													89.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-027_1_01_Left_MAH00291.MP4_0062015.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-027	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													100.0
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													89.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													64.2
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													46.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													46.5
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													15.5
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													64.2
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													46.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	High	Wall	4					64.2
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													100.0
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1													89.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-032_1_01_Left_MAH00339.MP4_0000628.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-032	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													100.0
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													89.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													89.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													64.2
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													46.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													46.5
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													15.5
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													64.2
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													46.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													100.0
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1													89.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-035_1_01_Left_MAH00336.MP4_0010598.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-035	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													100.0
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													89.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													64.2
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													46.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													46.5
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													15.5
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													64.2
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													46.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													100.0
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1													89.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-043_1_01_Left_MAH00264.MP4_0018065.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-043	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													100.0
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													89.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													64.2
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													46.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													46.5
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													15.5
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													64.2
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													46.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													100.0
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1													89.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-047_1_01_Left_MAH00330.MP4_0041706.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-047	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													100.0
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													89.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													64.2
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													46.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													46.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													46.5
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													15.5
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													15.5
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													64.2
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													46.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													46.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													100.0
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													89.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1													89.9
+SAL-BV-049_1_01_Left_MAH01342.MP4_0026954.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-049	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													100.0
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													89.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													64.2
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													46.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													46.5
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													64.2
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1													100.0
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-054_1_01_Left_MAH00326.MP4_0018085.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-054	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													100.0
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													89.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													89.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													64.2
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													46.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													46.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													46.5
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													15.5
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													15.5
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													64.2
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													46.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													100.0
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1													89.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-056_1_01_Left_MAH01315.MP4_0074778.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-056	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													100.0
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													89.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													89.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													64.2
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													46.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													46.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													46.5
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													15.5
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													64.2
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													46.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													100.0
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1													89.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-057_1_01_Left_MAH00328.MP4_0025171.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-057	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													100.0
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													89.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Flat		0					100.0
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													64.2
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													46.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													46.5
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													64.2
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1													100.0
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-063_1_01_Left_MAH00315.MP4_0021541.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-063	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													100.0
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													64.2
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													46.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													46.5
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													15.5
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					46.5
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													64.2
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													46.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													64.2
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1													100.0
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-068_1_01_Left_MAH00347.MP4_0031163.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-068	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													100.0
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													89.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													89.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													64.2
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													46.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													46.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													46.5
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													15.5
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													15.5
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													64.2
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													46.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													46.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													100.0
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													89.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1													89.9
+SAL-BV-080_1_01_Left_MAH00275.MP4_0049423.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-080	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													100.0
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													89.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													64.2
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													46.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													46.5
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													15.5
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													64.2
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													46.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													100.0
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1													89.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-083_1_01_Left_MAH00352.MP4_0007956.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-083	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													100.0
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													89.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													64.2
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													46.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													46.5
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													15.5
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													15.5
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													64.2
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													46.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													46.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													100.0
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													89.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													89.9
+SAL-BV-091_1_01_Left_MAH00253.MP4_0001160.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-091	1													100.0
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													100.0
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													89.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													64.2
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													46.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													46.5
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													15.5
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													64.2
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													46.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													46.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													100.0
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													89.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1													89.9
+SAL-BV-C01_1_01_Left_MAH00388.MP4_0061121.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C01	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													100.0
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													89.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													64.2
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													46.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													46.5
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													15.5
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													64.2
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													46.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													100.0
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1													89.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C02_1_01_Left_MAH00308.MP4_0007554.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C02	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													100.0
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													89.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													64.2
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													46.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													46.5
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													15.5
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													64.2
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													46.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													100.0
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1													89.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C03_1_01_Left_MAH00320.MP4_0013298.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C03	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													100.0
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													89.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													64.2
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													46.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													46.5
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													15.5
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													64.2
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													46.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													100.0
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1													89.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C04_1_01_Left_MAH00397.MP4_0029797.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C04	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1													100.0
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	High	Wall	4					89.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1													64.2
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	High	Wall	4					46.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1													46.5
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	High	Wall	4					15.5
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Flat		0					46.5
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1													64.2
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	High	Wall	4					46.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Flat		0					64.2
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1													100.0
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	High	Wall	4					89.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C05_1_01_Left_MAH00327.MP4_0042911.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C05	1					Relief	Flat		0					100.0
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													100.0
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													89.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													89.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													64.2
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													46.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													46.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													46.5
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													15.5
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													15.5
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													64.2
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													46.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													46.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													100.0
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													89.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1													89.9
+SAL-BV-C06_1_01_Left_MAH00317.MP4_0001885.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C06	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													100.0
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													89.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													89.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													64.2
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													46.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													46.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													46.5
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													15.5
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													15.5
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													64.2
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													46.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													100.0
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1													89.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-C07_1_01_Left_MAH01323.MP4_0045963.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C07	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													100.0
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													89.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	High	Wall	4					100.0
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													64.2
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													46.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	High	Wall	4					64.2
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													46.5
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													15.5
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	High	Wall	4					46.5
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													64.2
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													46.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1													100.0
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C08_1_01_Left_MAH00340.MP4_0000001.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C08	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													100.0
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													89.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													64.2
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													46.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													46.5
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													15.5
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	Low / moderate	Moderate (1-3m)	2					15.5
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													64.2
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													46.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													100.0
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1													89.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-C09_1_01_Left_MAH00304.MP4_0017478.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C09	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1													100.0
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					89.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Caves	5					89.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Caves	5					100.0
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1													64.2
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					46.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					46.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					64.2
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1													46.5
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					15.5
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					15.5
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					46.5
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1													64.2
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					46.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Caves	5					46.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1													100.0
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1													89.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	Wall	4					89.9
+SAL-BV-C10_1_01_Left_MAH00409.MP4_0028463.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C10	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													100.0
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													89.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													89.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													64.2
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													46.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													46.5
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													15.5
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													64.2
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													46.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													46.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													100.0
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1													89.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C12_1_01_Left_MAH00283.MP4_0063633.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C12	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													100.0
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													89.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													64.2
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													46.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													46.5
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													15.5
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													64.2
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													46.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													100.0
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1													89.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-C13_1_01_Left_MAH00416.MP4_0074541.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-C13	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													100.0
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													89.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													64.2
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													46.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													46.5
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													15.5
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					15.5
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													64.2
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													46.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					46.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													100.0
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1													89.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					89.9
+SAL-BV-D01_1_01_Left_MAH00365.MP4_0041051.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D01	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													100.0
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													89.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													89.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													64.2
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													46.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													46.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													46.5
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													15.5
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													15.5
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													64.2
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													46.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													46.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													100.0
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													89.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1													89.9
+SAL-BV-D02_1_01_Left_MAH00289.MP4_0052717.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D02	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													100.0
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													89.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													64.2
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													46.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													46.5
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													15.5
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													64.2
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													46.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													100.0
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1													89.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D03_1_01_Left_MAH00318.MP4_0047222.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D03	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													100.0
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													89.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													64.2
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													46.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													46.5
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													15.5
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													64.2
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													46.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													100.0
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1													89.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D04_1_01_Left_MAH00342.MP4_0057078.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D04	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													100.0
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													89.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													89.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													64.2
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													46.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													46.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													46.5
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													15.5
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													15.5
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													64.2
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													46.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Moderate (1-3m)	2					46.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													100.0
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1													89.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Moderate (1-3m)	2					89.9
+SAL-BV-D05_1_01_Left_MAH00423.MP4_0050425.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D05	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1													100.0
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1													64.2
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1													46.5
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1													64.2
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1													100.0
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D06_1_01_Left_MAH00353.MP4_0056000.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D06	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1													100.0
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	Wall	4					100.0
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					46.5
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					64.2
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D07_1_01_Left_MAH00339.MP4_0045885.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D07	1					Relief	High	High (>3m)	3					100.0
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		139	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													100.0
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		406	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													89.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		674	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		941	196											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	Low / moderate	Low (<1m)	1					100.0
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		139	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													64.2
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		406	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													46.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		674	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		941	578											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	Low / moderate	Low (<1m)	1					64.2
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		139	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													46.5
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		406	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													15.5
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		674	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	High	High (>3m)	3					15.5
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		941	960											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	Low / moderate	Low (<1m)	1					46.5
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		139	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													64.2
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		406	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													46.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		674	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	High	High (>3m)	3					46.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		941	1342											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	Low / moderate	Moderate (1-3m)	2					64.2
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		139	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													100.0
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		406	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1													89.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		674	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	High	High (>3m)	3					89.9
+SAL-BV-D08_1_01_Left_MAH01348.MP4_0045646.jpg	      0		941	1724											2022-11_Salisbury_stereo-BRUVs	Yes	SAL-BV-D08	1					Relief	Low / moderate	Moderate (1-3m)	2					100.0

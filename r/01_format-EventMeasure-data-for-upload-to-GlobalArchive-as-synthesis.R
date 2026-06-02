@@ -85,11 +85,23 @@ codes <- australia_life_history %>%
 count_upload <- maxn %>%
   dplyr::rename(count = maxn) %>%
   # mutate(species = if_else(species %in% "scaber", "scabra", species)) %>% #turn this on if you need it 
+  dplyr::left_join(., CheckEM::aus_synonyms) %>%
+  dplyr::mutate(genus = ifelse(!genus_correct%in%c(NA), genus_correct, genus)) %>%
+  dplyr::mutate(species = ifelse(!is.na(species_correct), species_correct, species)) %>%
+  dplyr::mutate(family = ifelse(!is.na(family_correct), family_correct, family)) %>%
+  dplyr::select(-c(family_correct, genus_correct, species_correct)) %>%
+  dplyr::mutate(scientific = paste(family, genus, species)) %>%
   left_join(codes) %>%
   # filter(!is.na(caab_code))
 
 length_upload <- length %>% # This includes only EM data, not generic length
   # mutate(species = if_else(species %in% "scaber", "scabra", species)) %>% # turn this on if you need it 
+  dplyr::left_join(., CheckEM::aus_synonyms) %>%
+  dplyr::mutate(genus = ifelse(!genus_correct%in%c(NA), genus_correct, genus)) %>%
+  dplyr::mutate(species = ifelse(!is.na(species_correct), species_correct, species)) %>%
+  dplyr::mutate(family = ifelse(!is.na(family_correct), family_correct, family)) %>%
+  dplyr::select(-c(family_correct, genus_correct, species_correct)) %>%
+  dplyr::mutate(scientific = paste(family, genus, species)) %>%
   left_join(codes) %>%
   dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number) %>%
   dplyr::select(-period) %>%

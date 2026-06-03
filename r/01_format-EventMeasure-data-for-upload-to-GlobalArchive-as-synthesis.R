@@ -34,6 +34,17 @@ metadata <- read_metadata(here::here("data/raw/"), method = "BRUVs") %>% # Chang
   # rename(opcode = opcode) %>% # use this line if you need to rename opcode to opcode
   glimpse()
 
+#checks for duplicates of campaign IDs and opcodes
+duplicates <- metadata %>%
+  dplyr::group_by(campaignid, opcode) %>%
+  dplyr::filter(n() > 1) 
+
+#checks for duplicates in coordinates
+metadata %>%
+  dplyr::group_by(latitude_dd, longitude_dd) %>%
+  dplyr::filter(n() > 1) %>%
+  dplyr::arrange(latitude_dd, longitude_dd)
+
 unique(metadata$campaignid)
 
 write_csv(metadata, paste0("data/uploads/", name, "_metadata.csv"))
